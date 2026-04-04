@@ -1,0 +1,7 @@
+{
+  "name": "Daily Work Update",
+  "description": "A professional, role-based task management system with AI-powered insights, real-time monitoring, and comprehensive reporting.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
